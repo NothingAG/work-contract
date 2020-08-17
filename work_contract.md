@@ -1,4 +1,4 @@
-<img src="./nothing_logo.svg" alt="Logo of Nothing" style="width:3cm;" />
+<img src="./nothing_logo.svg" alt="Logo of Nothing" width="150px" />
 
 # Work contract
 
