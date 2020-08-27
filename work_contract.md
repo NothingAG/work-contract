@@ -18,7 +18,7 @@ Date of birth: {Month date, year} / Place of origin: {XXX}
 Together, we will design products which matter. For this, you’ll adopt several roles in our **areas of competence**, which are, primarily, business, design and technology. Using your personal mission statement, you’ll actively participate in forming your fields of activity in order to be successful with the team.
 You will mainly take care of your tasks at our office in **Wabern**, though part of your work will also be done directly on-site with our clients (throughout Switzerland).
 
-We look forward to starting our employment relationship from **{start date}**. Our employment relationship is valid indefinitely.
+We look forward to {starting/continuing} our employment relationship from **{start date}**. Our employment relationship is valid indefinitely.
 
 ## Work amount and salary
 
