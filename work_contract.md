@@ -24,7 +24,7 @@ We look forward to starting our employment relationship from **{start date}**. O
 
 You work **{part-time/full-time}** at a schedule of **{XX%}**. This is equal to **{XX.XX}** working hours per week, which you invest in our mutual gain.
 
-As a **{part-time/full-time}** employee in your position, you are entitled to an **annual gross salary** of **CHF {salary × 12 months}**. We are transferring a twelfth of the total amount to your personal bank account at the end of every month (your monthly gross salary: **CHF {XXXX}**). During the onboarding phase of the **first 3 months**, you as well as we need calibration to discover you perfect place within our team. During this, you get **90%** of your salary (CHF {xxxx}).
+As a **{part-time/full-time}** employee in your position, you are entitled to an **annual gross salary** of **CHF {salary × 12 months}**. We are transferring a twelfth of the total amount to your personal bank account at the end of every month (your monthly gross salary: **CHF {XXXX}**). During the onboarding phase of the **first 3 months**, you as well as we need calibration to discover you perfect place within our team. Your salary will therefore be peer reviewed at the end of this onboarding phase.
 
 We cherish a culture of **trust**. To achieve this, all salaries are transparent. This means that you will know everyone’s salary, and that your salary will be known to others.
 
