@@ -10,7 +10,7 @@ Kirchstrasse 175, 3084 Wabern, Switzerland
 *and*
 
 **{First name Last name}** (you)  
-Date of birth {Month date, year} / Place of origin: {XXX}  
+Date of birth: {Month date, year} / Place of origin: {XXX}  
 {address, postal code place}
 
 ## Assignment and place of work
