@@ -17,41 +17,44 @@ Date of birth: {Month date, year} / Place of origin: {XXX}
 
 Together, we will design products which matter. For this, you’ll adopt several roles in our **areas of competence**, which are, primarily, business, design and technology. Using your personal mission statement, you’ll actively participate in forming your fields of activity in order to be successful with the team.
 
-You will mainly take care of your tasks at our office in **Wabern**, though part of your work will also be done directly on-site with our clients (throughout Switzerland).
+You will mainly take care of your tasks **remotely**.
 
-We look forward to {starting/continuing} our employment relationship from **{start date}**. Our employment relationship is valid indefinitely.
+We look forward to our employment relationship from **{start date}**. Our employment relationship is valid indefinitely.
 
 ## Work amount and salary
 
-You work **{part-time/full-time}** at a schedule of **{XX%}**. This is equal to **{XX.XX}** working hours per week, which you invest in our mutual gain.
+You work on an **hourly basis** on **{Tasks description}**.
 
-As a **{part-time/full-time}** employee in your position, you are entitled to an **annual gross salary** of **CHF {salary × 12 months}**. We are transferring a twelfth of the total amount to your personal bank account at the end of every month (your monthly gross salary: **CHF {XXXX}**). During the onboarding phase of the **first 3 months**, you as well as we need calibration to discover you perfect place within our team. Your salary will therefore be peer reviewed at the end of this onboarding phase.
+As an employee on an hourly basis, you are entitled to an **hourly gross salary**:
 
-We cherish a culture of **trust**. To achieve this, all salaries are transparent. This means that you will know everyone’s salary, and that your salary will be known to others.
+|  |  |
+| -- | -- |
+| Hourly rate without surcharges | CHF {XX.XX} |
+| Surcharges holiday compensation (10.65%) | CHF {XX.XX} |
+| Surcharges public holiday compensation (2.27%) | CHF {XX.XX} |
+| **Hourly rate** | **CHF {XX.XX}** |
 
 ## Working hours and tracking
 
-We are liberal regarding the distribution of working hours: we value results over following strict hours. We welcome **physical presence** throughout our **opening hours** so that we can tackle challenges as a team. We respect the value of **being present together** and encourage you to pursue this through your personal, daily planning.
+The duration and **location** of the work shall be determined by **mutual agreement**. These are irregular assignments that are compensated on an hourly basis and not part-time assignments.
 
 We don’t enforce specific work hours. However, we would like to point out that we do not have a permit for night work (from 23:00 to 06:00) and for working on Sundays. Please refrain from working during these time periods.
 
-We all track our working hours transparently with our intranet tool. We ask you to **track** and document your **working hours** in the same fashion. This tracking allows us to better understand how much time we use for specific tasks so that we can make better estimations, for instance for offers.
-
-We try to avoid crunch time. Nevertheless, it can happen that overtime is needed. You can **compensate** such overtime with either free time at a later point or monetary compensation without premium.
+We all track our working hours transparently with our intranet tool. Since you are employed on an hourly basis, you do not have to do this. However, we kindly ask you to **transparently report your worked hours on the end of every month**.
 
 ## Holidays and free time
 
-You are entitled to **5 weeks of holidays per working year**. Please declare your holidays as early as possible. We will try our best that everybody can take holidays on their desired dates.
-
-We want to support you in good and in bad times. For this reason, we will continue to pay your **salary for 1** additional **day** in the following cases: Your own wedding or the wedding of closest relatives/ friends, death of close relatives/ friends, publicly recognised exams and when you are moving to a new home. Rest assured, we always acknowledge special circumstances; **the team is here to cover your back!** Talk to us if you need more time in your situation.
-
-When giving birth, women get **14 weeks of** paid **maternity leave**. We also grant fathers **4 weeks of** paid **parental leave**.
+You are entitled to **5 weeks of holidays per working year**. Since you are employed on an hourly basis, we will add a surcharge for holidays and public holidays to your hourly rate.
 
 ## Termination and periods of cancellation
 
-During the onboarding phase of the first 3 months, we get to know each other. It can be that we don’t fit. To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 7 days** during the **onboarding phase** and afterwards with a **cancellation period of 1** **month** during the **first working year**. 
+To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 1** **month** during the **first working year**. 
 
 If we decide to continue our work relationship after that first year, we can start thinking more long term. As of the **second working year**, this work contract can be terminated by you or by us with a **cancellation period of 3 months**.
+
+## Insurance
+
+Since your average working time will be below 8 hours/week, the completion of a non-occupational accident insurance policy will not be provided by Nothing.
 
 ## Secrecy and prohibition of competition
 
