@@ -97,5 +97,5 @@ Bastiaan van Rooden, Founder
 
 
 
-**{First name Last name}** (you)
+**{First name Last name}** (you)  
 Member of our team!
