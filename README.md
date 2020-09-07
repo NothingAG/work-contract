@@ -21,3 +21,13 @@ Only the *protected* branches are mirrored on GitHub.
 
 - Merge the branch `master` into the branch `robot/{robotName}` of the contract you want to update
 - Resolve conflicts if there is any
+
+## License
+
+<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0" />
+</a>
+
+To the extent possible under law, Nothing AG has waived all copyright and related or neighboring rights to [this work contract template](./work_contract.md). This work is published from Switzerland.
+
+**© The [Nothing logo](./nothing_logo.md) keeps an *all rights reserved* copyright to Nothing AG.**
