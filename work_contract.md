@@ -33,11 +33,9 @@ We cherish a culture of **trust**. To achieve this, all salaries are transparent
 
 We are liberal regarding the distribution of working hours: we value results over following strict hours. We welcome **physical presence** throughout our **opening hours** so that we can tackle challenges as a team. We respect the value of **being present together** and encourage you to pursue this through your personal, daily planning.
 
+We apply the simplified time registration for all peers. We try to avoid crunch time. Nevertheless, it can happen that overtime is needed. Each peer is responsible for respecting the working hours and for securing their rest time by compensating overtime autonomously with free time.
+
 We don’t enforce specific work hours. However, we would like to point out that we do not have a permit for night work (from 23:00 to 06:00) and for working on Sundays. Please refrain from working during these time periods.
-
-We all track our working hours transparently with our intranet tool. We ask you to **track** and document your **working hours** in the same fashion. This tracking allows us to better understand how much time we use for specific tasks so that we can make better estimations, for instance for offers.
-
-We try to avoid crunch time. Nevertheless, it can happen that overtime is needed. You can **compensate** such overtime with either free time at a later point or monetary compensation without premium.
 
 ## Holidays and free time
 
