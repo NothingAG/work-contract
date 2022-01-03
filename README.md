@@ -2,13 +2,13 @@
 
 This repository contains the [work contract template](./work_contract.md) of Nothing AG.
 
-Branches are created for the work contract of each robot.
+Branches are created for the work contract of each crew member.
 
 Only the *protected* branches are mirrored on GitHub.
 
-## Set a contract for a new robot
+## Set a contract for a new crew member
 
-- Create a new branch `robot/{robotName}`
+- Create a new branch `crew-member/{crewMemberFirstName}`
   - From `master` for a part-time or full-time contract
   - From a `alt/*` branch for another type of contract
   - **Do not** protect this new branch
@@ -19,7 +19,7 @@ Only the *protected* branches are mirrored on GitHub.
 
 ## Update an existing contract with a newer version of the template
 
-- Merge the branch `master` into the branch `robot/{robotName}` of the contract you want to update
+- Merge the branch `master` into the branch `crew-member/{crewMemberFirstName}` of the contract you want to update
 - Resolve conflicts if there is any
 
 ## License

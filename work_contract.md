@@ -4,13 +4,13 @@
 
 *between*
 
-**Nothing AG** (us)  
+**Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Kirchstrasse 175, 3084 Wabern, Switzerland
 
 *and*
 
-**{First name Last name}** (you)  
-Date of birth: {Month date, year} / Place of origin: {XXX}  
+**{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
+Date of birth: {Month date, year} / Place of origin: {XXX} <!-- Keep the two whitespace after this comment to ensure line break -->  
 {address, postal code place}
 
 ## Assignment and place of work
@@ -40,7 +40,7 @@ The duration and **location** of the work shall be determined by **mutual agreem
 
 We don’t enforce specific work hours. However, we would like to point out that we do not have a permit for night work (from 23:00 to 06:00) and for working on Sundays. Please refrain from working during these time periods.
 
-We all track our working hours transparently with our intranet tool. Since you are employed on an hourly basis, you do not have to do this. However, we kindly ask you to **transparently report your worked hours on the end of every month**.
+We kindly ask you to **transparently report your worked hours on the end of every month**.
 
 ## Holidays and free time
 
@@ -48,7 +48,7 @@ You are entitled to **5 weeks of holidays per working year**. Since you are empl
 
 ## Termination and periods of cancellation
 
-To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 1** **month** during the **first working year**. 
+To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 1** **month** during the **first working year**.
 
 If we decide to continue our work relationship after that first year, we can start thinking more long term. As of the **second working year**, this work contract can be terminated by you or by us with a **cancellation period of 3 months**.
 
@@ -94,12 +94,12 @@ Wabern, {contract date}
 
 
 
-**Nothing AG** (us)  
+**Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Bastiaan van Rooden, Founder
 
 
 
 
 
-**{First name Last name}** (you)  
+**{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Member of our team!
