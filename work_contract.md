@@ -49,7 +49,7 @@ When giving birth, women get **14 weeks of** paid **maternity leave**. We also g
 
 ## Termination and periods of cancellation
 
-During the onboarding phase of the first 3 months, we get to know each other. It can be that we don’t fit. To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 7 days** during the **onboarding phase** and afterwards with a **cancellation period of 1** **month** during the **first working year**. 
+During the onboarding phase of the first 3 months, we get to know each other. It can be that we don’t fit. To keep a certain flexibility for both of us, this work contract can be cancelled from either side with a **cancellation period of 7 days** during the **onboarding phase** and afterwards with a **cancellation period of 1** **month** during the **first working year**.
 
 If we decide to continue our work relationship after that first year, we can start thinking more long term. As of the **second working year**, this work contract can be terminated by you or by us with a **cancellation period of 3 months**.
 
