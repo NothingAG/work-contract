@@ -4,13 +4,13 @@
 
 *between*
 
-**Nothing AG** (us)  
+**Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Kirchstrasse 175, 3084 Wabern, Switzerland
 
 *and*
 
-**{First name Last name}** (you)  
-Date of birth: {Month date, year} / Place of origin: {XXX}  
+**{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
+Date of birth: {Month date, year} / Place of origin: {XXX} <!-- Keep the two whitespace after this comment to ensure line break -->  
 {address, postal code place}
 
 ## Assignment and place of work
@@ -91,12 +91,12 @@ Wabern, {contract date}
 
 
 
-**Nothing AG** (us)  
+**Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Bastiaan van Rooden, Founder
 
 
 
 
 
-**{First name Last name}** (you)  
+**{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Member of our team!
