@@ -29,6 +29,8 @@ As a **{part-time/full-time}** employee in your position, you are entitled to an
 
 We cherish a culture of **trust**. To achieve this, all salaries are transparent. This means that you will know everyone’s salary, and that your salary will be known to others.
 
+<div style="page-break-after: always; break-after: page;"></div>
+
 ## Working hours and tracking
 
 We are liberal regarding the distribution of working hours: we value results over following strict hours. We welcome **physical presence** throughout our **opening hours** so that we can tackle challenges as a team. We respect the value of **being present together** and encourage you to pursue this through your personal, daily planning.
@@ -56,6 +58,8 @@ If we decide to continue our work relationship after that first year, we can sta
 We both guarantee to **not disclose** any data which we have received from the other party and which is not evident or public domain.
 
 You guarantee to not engage in any **direct** or **indirect** commercial activity with our clients, both while you are working for us and for an additional **2 years** after cancellation of our work contract. This rule only applies in directly competing cases of rivalry.
+
+<div style="page-break-after: always; break-after: page;"></div>
 
 ## Core values and rules of conduct
 
