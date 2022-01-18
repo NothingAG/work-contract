@@ -83,7 +83,7 @@ Our core values are the following:
 
 ## Signatures
 
-This work contract will be printed twice and signed by both parties. It becomes valid with your and our signature. Each of us gets 1 signed copy of the work contract.
+This work contract will be signed by both parties. It becomes valid with your and our signature. Each of us will receive a signed copy of this work contract.
 
 
 
