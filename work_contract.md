@@ -2,12 +2,12 @@
 
 # Work contract
 
-*between*
+_between_
 
 **Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Kirchstrasse 175, 3084 Wabern, Switzerland
 
-*and*
+_and_
 
 **{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Date of birth: {Month date, year} / Place of origin: {XXX} <!-- Keep the two whitespace after this comment to ensure line break -->  
@@ -27,12 +27,14 @@ You work on an **hourly basis** on **{Tasks description}**.
 
 As an employee on an hourly basis, you are entitled to an **hourly gross salary**:
 
-|  |  |
-| -- | -- |
-| Hourly rate without surcharges | CHF {XX.XX} |
-| Surcharges holiday compensation (10.65%) | CHF {XX.XX} |
-| Surcharges public holiday compensation (2.27%) | CHF {XX.XX} |
-| **Hourly rate** | **CHF {XX.XX}** |
+|                                                |                 |
+| ---------------------------------------------- | --------------- |
+| Hourly rate without surcharges                 | CHF {XX.XX}     |
+| Surcharges holiday compensation (10.65%)       | CHF {XX.XX}     |
+| Surcharges public holiday compensation (2.27%) | CHF {XX.XX}     |
+| **Hourly rate**                                | **CHF {XX.XX}** |
+
+<div style="page-break-after: always; break-after: page;"></div>
 
 ## Working hours and tracking
 
@@ -62,6 +64,8 @@ We both guarantee to **not disclose** any data which we have received from the o
 
 You guarantee to not engage in any **direct** or **indirect** commercial activity with our clients, both while you are working for us and for an additional **2 years** after cancellation of our work contract. This rule only applies in directly competing cases of rivalry.
 
+<div style="page-break-after: always; break-after: page;"></div>
+
 ## Core values and rules of conduct
 
 We cherish having a good atmosphere at work and we strive to have a good relationship with our clients. For this reason, it is important that you can relate to our core values.
@@ -84,22 +88,12 @@ Our core values are the following:
 
 ## Signatures
 
-This work contract will be printed twice and signed by both parties. It becomes valid with your and our signature. Each of us gets 1 signed copy of the work contract.
-
-
+This work contract will be signed by both parties. It becomes valid with your and our signature. Each of us will receive a signed copy of this work contract.
 
 Wabern, {contract date}
 
-
-
-
-
 **Nothing AG** (us) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Bastiaan van Rooden, Founder
-
-
-
-
 
 **{First name Last name}** (you) <!-- Keep the two whitespace after this comment to ensure line break -->  
 Member of our team!
